@@ -1,0 +1,15 @@
+book_author_1_1:
+  book_id: 1
+  person_id: 1
+
+book_author_2_1:
+  book_id: 2
+  person_id: 1
+
+book_author_2_2:
+  book_id: 2
+  person_id: 2
+
+book_author_601_1:
+  book_id: 601
+  person_id: 1
